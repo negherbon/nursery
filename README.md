@@ -1,1 +1,3 @@
 # nursery
+
+run npm install
