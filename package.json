@@ -1,0 +1,24 @@
+{
+  "name": "nursery",
+  "version": "1.0.0",
+  "description": "Child care",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/negherbon/nursery.git"
+  },
+  "author": "Cleiton Cardoso, Rafael Negherbon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/negherbon/nursery/issues"
+  },
+  "homepage": "https://github.com/negherbon/nursery#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4"
+  }
+}
